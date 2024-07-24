@@ -1,0 +1,51 @@
+p{
+    color: rgb(189, 94, 94);
+    /* text-align: justify; */
+    /* text-align: center; */
+    /* text-align: right; */
+    text-align: left;
+    border: 10px solid;
+    
+}
+div{
+    color: blue;
+    margin: auto;
+    font-size: 30px;
+    padding: 20px;
+    /* text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration:overline underline ; */
+    text-decoration: underline red solid 5px;    
+}
+
+a{
+    color: dodgerblue;
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    text-transform: capitalize;
+    
+}
+
+h1{
+    text-indent: 400px;
+}
+h2{
+    color: hotpink;
+    /* word-spacing: 100px; */
+    letter-spacing: 10px ;
+    /* line-height: 200px; */
+}
+
+
+h3{
+    text-shadow: 2px 2px 5px rgb(29, 26, 26);
+    box-shadow: rgb(184, 117, 29);
+    background-color: rgb(116, 114, 112);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100px;
+    font-size: medium;
+}
+
+
+

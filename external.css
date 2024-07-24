@@ -1,0 +1,44 @@
+/* div{
+    color:aqua;
+    background-color: blueviolet;
+} */
+
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+.one{
+    color: rgb(127, 127, 179);
+    background-color: aquamarine;
+    border:10px rgb(34, 26, 34);
+    margin: auto;
+    padding: 20px;
+    width: 150px;
+    height:150px;
+    
+}
+
+.two{
+    color: rgb(171, 171, 204);
+    background-color: aquamarine;
+    border:10px rgb(34, 26, 34);
+    margin: auto;
+    padding: 20px;
+    width: 150px;
+    height:150px;
+}
+
+
+#three{
+        color: rgb(20, 20, 216);
+        background-color: rgb(96, 164, 141);
+        border: 10px rgb(154, 131, 154);
+        margin: auto;
+        padding: 20px;
+        width: 100px;
+        height: 100px;
+}
+    
+
